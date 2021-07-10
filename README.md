@@ -1,1 +1,1 @@
-# App_notas_aluno
+#Aplicativo de notas e controle de faltas
