@@ -1,5 +1,11 @@
 Aplicativo de cálculo de notas e controle de faltas. 
+
+
+
 Atividade desenvolvida durante aula do curso do Bootcamp Mobile Santander.
+
+
+
 Linguagem de programação usada foi o Kotlin. 
 
 
