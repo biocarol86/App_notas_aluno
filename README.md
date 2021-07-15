@@ -6,7 +6,8 @@ Atividade desenvolvida durante aula do curso do Bootcamp Mobile Santander.
 
 
 
-Linguagem de programação usada foi o Kotlin.
+Linguagem de programação usada: 
+-Kotlin.
 
 
 
